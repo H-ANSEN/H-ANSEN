@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @H-ANSEN
-- 👀 I’m interested in making intresting interactive software
+- 👀 I’m interested in making fun interactive software
 - 🌱 I’m currently learning Java at ASU.. 
 - 💞️ I’m looking to collaborate on any Java project to get expirence and learn new things as well as challenge myself
 - 📫 If you would like to reach me the best place would be: thanse23@asu.edu
